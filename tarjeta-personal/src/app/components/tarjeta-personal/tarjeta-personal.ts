@@ -6,4 +6,8 @@ import { Component } from '@angular/core';
   templateUrl: './tarjeta-personal.html',
   styleUrl: './tarjeta-personal.css',
 })
-export class TarjetaPersonal {}
+export class TarjetaPersonal {
+  nombre:string = 'BENJAMÍN ROSSI';
+  rol:string =  'Full Stack Developer';
+  descripcion:string = '.NET | Angular';
+}
