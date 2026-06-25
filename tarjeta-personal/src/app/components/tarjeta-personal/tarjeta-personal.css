@@ -38,6 +38,14 @@ h3{
    font-size:2rem;
 }
 
+.barra {
+  width: 400px;
+  height: 7px;
+  background-color: #38bdf8;
+  border-radius: 10px;
+  margin: 100px;
+}
+
 
 
 
